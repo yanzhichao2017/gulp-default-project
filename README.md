@@ -1,5 +1,5 @@
 # gulp自动化初级构建的传统项目
-- 可在 /app 文件夹中 自行添加依赖库（例如:jquery,bootstrp,easyui,mui...）
+- 可在 /app 文件夹中 自行添加依赖库（例如:jquery,bootstrp,easyui,mui,iconfont,echarts ...）
 - 文件结构改动请自行配置gulpfile.js
 
 ## 初始化项目
