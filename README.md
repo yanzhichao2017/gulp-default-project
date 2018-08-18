@@ -12,11 +12,10 @@ gulp dev //开发
 gulp build //生产
 ```
 # 特性
-## gulp dev
+### gulp dev
 - sass
 - hot browser
 - watcher
-## gulp build
+### gulp build
 - rar:['js','css','img']
 - copy fonts
-###
