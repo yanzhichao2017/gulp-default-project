@@ -15,7 +15,6 @@ gulp build //生产
 ### gulp dev
 - sass
 - hot browser
-- watcher
 ### gulp build
 - rar:['js','css','img']
 - copy fonts
