@@ -11,7 +11,7 @@ npm install //安装依赖
 gulp dev //开发
 gulp build //生产
 ```
-# 特性
+## 特性
 ### gulp dev
 - sass
 - hot browser
